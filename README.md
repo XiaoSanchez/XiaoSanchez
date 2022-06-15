@@ -3,10 +3,12 @@
         <img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="50px" length="50px"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮<img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="50px" length="50px">
     </h1>
     <div align="center">
-        <img src="https://img.wallpapersafari.com/desktop/1680/1050/28/88/fa1ZTo.jpg" height="200px">
+        <img src="https://www.91265.com/d/file/p/2020/05-20/d039b2668d22752fb8da2747308392ec.jpg" length="600px" height="200px">
     </div>
     <h2 align="left"><img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮<img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px"></h2>
-    <br> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+    <div>
+
+    </div>
     <h2 align="left"><img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px">𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮<img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px"></h2>
     <br>
     <p align="center">
