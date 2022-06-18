@@ -1,13 +1,13 @@
 <body>
     <h2 align="left"><img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px">𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮<img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px"></h2>
     <p>
-        Phone#:<br> 510-260-7595
+        Phone#: 510-260-7595
     </p>
     <p>
-        Email:<br> sfjpidgkmklsgyi@gmail.com
+        Email: sfjpidgkmklsgyi@gmail.com
     </p>
     <p>
-        Webiste:<br>
+        Webiste:
         <a href="https://xiaosanchez.github.io/">https://xiaosanchez.github.io/</a>
     </p>
     <h2 align="left"><img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮<img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px"></h2>
