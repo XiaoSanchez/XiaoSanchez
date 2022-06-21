@@ -7,7 +7,7 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/pt0EKLDJmVvlS/giphy.gif?cid=ecf05e47mccx6hkl826aybijpq3g80yzuvps2qhr8wnaolm0&rid=giphy.gif&ct=g" width="200"/>
 
 </p>
 
