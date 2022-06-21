@@ -2,7 +2,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! This is <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Shawn</a></b>.
+    Hello there! This is <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://xiaosanchez.github.io/">Shawn</a></b>.
     <br>I'm a Software Engineer and a Computer Science Undergrats.<br>
 </samp>
   <img src="https://media4.giphy.com/media/pt0EKLDJmVvlS/giphy.gif?cid=ecf05e47mccx6hkl826aybijpq3g80yzuvps2qhr8wnaolm0&rid=giphy.gif&ct=g" width="200"/>
