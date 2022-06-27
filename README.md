@@ -13,14 +13,9 @@
 <img src="http://pic.962.net/up/2016-8/20168111044246203.gif" height="30px" length="30px">
 </h2>
     <p>
-        Phone#: 510-260-7595
-    </p>
-    <p>
-        Email: sfjpidgkmklsgyi@gmail.com
-    </p>
-    <p>
-        Webiste:
-        <a href="https://xiaosanchez.github.io/">https://www.ShawnC.com/</a>
+      <b>Email:</b> sfjpidgkmklsgyi@gmail.com
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <b>LinkedIn:</b><a href="https://www.linkedin.com/in/shawn-c-23a1a5239/">Shawn</a>
     </p>
     <h2 align="left">
     <img src="http://pic.962.net/up/2016-8/20168111044246203.gif" height="30px" length="30px">
