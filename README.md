@@ -7,7 +7,11 @@
 </samp>
   <img src="https://media4.giphy.com/media/pt0EKLDJmVvlS/giphy.gif?cid=ecf05e47mccx6hkl826aybijpq3g80yzuvps2qhr8wnaolm0&rid=giphy.gif&ct=g" width="200"/>
 </p>
-<h2 align="left"><img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px">𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮<img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px"></h2>
+<h2 align="left">
+<img src="http://pic.962.net/up/2016-8/20168111044246203.gif" height="30px" length="30px">
+𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮
+<img src="http://pic.962.net/up/2016-8/20168111044246203.gif" height="30px" length="30px">
+</h2>
     <p>
         Phone#: 510-260-7595
     </p>
@@ -18,7 +22,11 @@
         Webiste:
         <a href="https://xiaosanchez.github.io/">https://www.ShawnC.com/</a>
     </p>
-    <h2 align="left"><img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px">𝓐𝓫𝓸𝓾𝓽 𝓶𝓮<img src="https://thumbs.gfycat.com/LameMaleBorzoi.webp" height="30px" length="30px"></h2>
+    <h2 align="left">
+    <img src="http://pic.962.net/up/2016-8/20168111044246203.gif" height="30px" length="30px">
+    𝓐𝓫𝓸𝓾𝓽 𝓶𝓮
+    <img src="http://pic.962.net/up/2016-8/20168111044246203.gif" height="30px" length="30px">
+    </h2>
     <br>
     <div align="center">
         <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="300" />
