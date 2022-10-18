@@ -46,7 +46,7 @@
             ██████╔╝██║░░██║██║░░██║░░╚██╔╝░╚██╔╝░██║░╚███║  ╚█████╔╝██║░░██║██║ ████   █
             ╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░░╚══╝  ░╚════╝░╚═╝░░╚═╝╚═╝ ▀▀▀▀▀▀▀
     </pre>
-    <p align="center"><a href="mailto:sfjpidgkmklsgyi@gmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/yongxiang-cai-23a1a5239/">Linkedin</a> | <a href="https://github.com/XiaoSanchez">Github</a> | <a href="http://www.xiao-cheng.site/">Website</a> </p>
+    <p align="center"><a href="mailto:sfjpidgkmklsgyi@gmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/yongxiang-cai-23a1a5239/">Linkedin</a> | <a href="https://github.com/XiaoSanchez">Github</a> | <a href="http://www.xiao-cheng.site/">Website</a> | <a href="https://codepen.io/Shawn-Cai">CodePen</a></p>
     <p align="center">
         <a href="https://xiaosanchez.github.io/" target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fxiaosanchez.github.io%2F" /></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/pingpong/status/sp_2e80bc00b6054faeb2b87e2464be337e" /></a>
