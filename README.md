@@ -76,7 +76,7 @@
     <p align="center">
         <a href="https://xiaosanchez.github.io/" target="_blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fxiaosanchez.github.io%2F" /></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/pingpong/status/sp_2e80bc00b6054faeb2b87e2464be337e" /></a>
-        <img alt="APM" src="https://img.shields.io/apm/l/vim-mode">
+        <img src="https://img.shields.io/apm/l/vim-mode.svg"/>
     </p>
     <p align="center">
         <a href="https://github.com/XiaoSanchez/XiaoSanchez" target="_blank"><img src="https://img.shields.io/github/followers/XiaoSanchez?style=social" /></a>
