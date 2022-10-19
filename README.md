@@ -50,7 +50,7 @@
 <img src="http://pic.962.net/up/2016-8/20168111044246203.gif" height="30px" length="30px">
 </h2>
     <p align="center">
-  <img height="20%" width="45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoSanchez&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide_title=true&hide=jupyter%20notebook,tex,css,scss,javascript,html">
+  <img height="20%" width="45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoSanchez&layout=compact&hide_border=true&theme=onedark&bg_color=00000000&langs_count=6&hide_title=true&hide=jupyter%20notebook,tex,css,scss,javascript">
   <img height="20%" width="45%" src ="https://github-readme-stats.vercel.app/api?username=XiaoSanchez&show_icons=true&count_private=true&theme=onedark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <br>
     </p>
